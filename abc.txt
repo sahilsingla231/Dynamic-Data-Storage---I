@@ -1,0 +1,3 @@
+C:/Users/Test/video.mp4
+C:/Users/Test/SahilSingla.jpeg
+"C:\Users\Sahil\eclipse-workspace\DynamicDataFile\src\dynamicdatastorage\abc.txt"   is path of abc.txt file
